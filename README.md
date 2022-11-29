@@ -22,6 +22,12 @@ npm install
 
 ---
 
+## Change Network and Contract Configuration
+
+- [Network Ids](https://github.com/dhavalmp194/NFT-Frontend/blob/main/src/utils/connector.js):
+
+- [Contract](https://github.com/dhavalmp194/NFT-Frontend/blob/main/src/utils/config.js)
+
 ## Available Scripts
 
 In the project directory, you can run:
